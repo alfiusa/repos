@@ -1,6 +1,6 @@
 # .bashrc
 
-# Source global definitions
+# Source gglobal definitions
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
